@@ -1,4 +1,4 @@
-# vwrite
+# vwrite.css
 
 This is the css for vertical writing.
 and add indent head of text.
