@@ -1,0 +1,9 @@
+.vwrite{
+  font-family: serif;
+  text-indent: 1em;
+  -webkit- writing-mode: vertical-rl;
+  -moz- writing-mode: vertical-rl;
+  -ms- writing-mode: vertical-rl;
+  -o- writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+}
