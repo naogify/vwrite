@@ -7,4 +7,4 @@ just it.
 
 ## using
 add ``` <link rel="stylesheet" href="./css/vwrite.css">``` inside of head tag.
-Then,add "vwrite"class to elements(eg.body).
+Then,add "vwrite"class to your elements(eg.body).
